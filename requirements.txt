@@ -2,3 +2,5 @@ openai
 gtts
 google-translater
 streamlit
+base64
+requests
